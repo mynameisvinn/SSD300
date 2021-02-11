@@ -1,0 +1,8 @@
+include README.md
+include LICENSE.txt
+include requirements.txt
+recursive-include input_files *
+recursive-include docker *
+recursive-include examples *
+recursive-include ssd300 *.py
+

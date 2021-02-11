@@ -1,0 +1,22 @@
+EXPORT CONTROL DISCLAIMER:
+This software contains technical data whose export is restricted by
+the provisions of the Arms Export Control Act (Title 22, U.S.C., Sec.
+2751 et seq.) and the International Traffic in Arms Regulation.
+
+DISTRIBUTION F:
+This software contains technical data restricted to authorized US
+government agencies and their contractors.
+
+Redistribution of this software is strictly prohibited except to
+eligible recipients of Export Controlled and Distribution F entities.
+
+COPYRIGHT:
+Stephanie Kao
+
+RESERVATION OF RIGHTS:
+The Software is owned by Stephanie Kao and is protected by
+copyright and other intellectual property laws and international
+treaties.
+
+AUTHORS:
+Stephanie Kao

@@ -1,0 +1,13 @@
+{
+ "random_rotate": 0.5, 
+ "random_contrast": 0.5, 
+ "random_brightness": 0.5, 
+ "random_saturation": 0.5, 
+ "random_flip": 0.0, 
+ "random_hue": 0.5, 
+ "random_channel_swap": 0.0, 
+ "random_blur": 0.1, 
+ "random_crop": 0.857, 
+ "random_dropout": 0.1, 
+ "random_expand": 0.5
+}
