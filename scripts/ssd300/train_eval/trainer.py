@@ -223,3 +223,8 @@ class Train():
             validation_steps=int(len(test['images']) / args.batch_size))
         json.dump(self.output_config,
                   open(os.path.join(self.args.output_path, 'config.json'), 'w'))
+
+        print("savvvvvving")
+        LOG.info("savvvvvving")
+        self.model.save(os.path.join(os.environ.get('SM_MODEL_DIR'), 'sm_example_model.h5'))  #!
+        self.model.save(os.path.join(os.environ.get('MODEL_DIR'), 'm_example_model.h5'))  #!
